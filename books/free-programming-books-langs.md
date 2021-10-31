@@ -567,6 +567,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### CoffeeScript
 
+* [CoffeeScript: Accelerated Javascript Development](http://index-of.es/JS/CoffeeScript%20Accelerated%20JavaScript%20Development.pdf)
 * [CoffeeScript Cookbook](https://coffeescript-cookbook.github.io)
 * [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read) - Reginald Braithwaite  *(Leanpub account or valid email requested)*
 * [Smooth CoffeeScript](http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html)
